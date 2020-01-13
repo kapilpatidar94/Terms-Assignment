@@ -57,6 +57,7 @@ SQL is a standard language for accessing and manipulating databases.
 NoSQL databases are purpose built for specific data models and have flexible schemas for building modern applications. 
 
 ## 8. 10 popular databases
+```bash
 ###Database             ###Written in
 Oracle			Assembly language, C, C++
 MySQL			C, C++
@@ -66,8 +67,9 @@ MongoDB			C
 DB2			C, C++, JavaScript
 Microsoft Access
 Redis			Assembly language, C, C++
-
-
+Cassandra		Java
+Elestic Search		Java
+```
 ## 9. ACID
 A transaction in a database system must maintain Atomicity, Consistency, Isolation, and Durability − commonly known as ACID properties − in order to ensure accuracy, completeness, and data integrity.
 
@@ -234,15 +236,23 @@ Is an architectural style that structures an application as a collection of serv
 
 ## 53. Redis? Why?
 Redis is an open source, in-memory Data Structure Store, used as a database, a caching layer or a message broker.
+ It’s a NoSql Database and it is open source and stable.
 
 ## 54. Solr? Why?
-Solr is a standalone enterprise search server with a REST-like API. 
+Solr is a standalone enterprise search server with a REST-like API.
+Indexing in near real time
+Automated index replication
+Server statistics logging
+Automated failover and recovery
+Rich document parsing and indexing 
 
 ## 55. ElasticSearch? Why?
 Is a managed service that makes it easy to deploy, operate, and scale Elasticsearch clusters in the AWS Cloud.
+Elasticsearch you store data in JSON document form.
 
 ## 56. Celery? Why?
-Celery is an open source asynchronous task queue or job queue which is based on distributed message passing. 
+Celery is an open source asynchronous task queue or job queue which is based on distributed message passing.
+It is focused on real-time operation, but supports scheduling as well. 
 
 ## 57. Node JS
 Node.js is an open-source, cross-platform, JavaScript runtime environment 
