@@ -317,5 +317,4 @@ State on the other hand is still variables, but directly initialized and managed
 ## 79. Props
 props are variables passed to it by its parent component.
 
-## 80. Collapse
 
