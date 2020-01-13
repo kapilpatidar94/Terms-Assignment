@@ -318,7 +318,7 @@ Changing the internal state of the data, so the reference always gets reassigned
 React is a JavaScript library for building user interfaces.
 
 ## 75. Why React?
-React basically gives developers the ability to work with a virtual browser that is more friendly than the real browser.## 76. Redux
+React basically gives developers the ability to work with a virtual browser that is more friendly than the real browser.
 
 ## 77. Why Redux?
 Redux is a predictable state container for JavaScript applications.
