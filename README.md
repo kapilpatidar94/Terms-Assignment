@@ -58,7 +58,7 @@ NoSQL databases are purpose built for specific data models and have flexible sch
 
 ## 8. 10 popular databases
 ```bash
-###Database             ###Written in
+### Database             ### Written in
 Oracle			Assembly language, C, C++
 MySQL			C, C++
 Microsoft SQL Server	C, C++
@@ -92,7 +92,7 @@ Database Sharding is an enabling technology for achieving high levels of scalabi
 
 ## 15. 7 network layers
 The International Standards Organization (ISO) developed the Open Systems Interconnection (OSI) model. It divides network communication into seven layers.
-
+```bash
 Layer 7 - Application
 Layer 6 - Presentation
 Layer 5 - Session
@@ -100,7 +100,7 @@ Layer 4 - Transport
 Layer 3 - Network
 Layer 2 - Data Link
 Layer 1 - Physical
-
+```
 
 ## 16. Request Response Protocol
 HTTP works as a request-response protocol between a client and server.
@@ -113,12 +113,13 @@ Web API as the name suggests, is an API over the web which can be accessed using
 Architecture style for designing networked applications.
 
 ## 19. HTTP Status Codes to Handle
+```bash
 1xx: Informational
 2xx: Success
 3xx: Redirection
 4xx: Client Error
 5xx: Server Error
-
+```
 
 ## 20. HTML
 Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.
@@ -240,12 +241,13 @@ Redis is an open source, in-memory Data Structure Store, used as a database, a c
 
 ## 54. Solr? Why?
 Solr is a standalone enterprise search server with a REST-like API.
+```bash
 Indexing in near real time
 Automated index replication
 Server statistics logging
 Automated failover and recovery
 Rich document parsing and indexing 
-
+```
 ## 55. ElasticSearch? Why?
 Is a managed service that makes it easy to deploy, operate, and scale Elasticsearch clusters in the AWS Cloud.
 Elasticsearch you store data in JSON document form.
